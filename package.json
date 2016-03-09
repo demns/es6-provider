@@ -1,0 +1,22 @@
+{
+  "name": "es6-provider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demns/es6-provider.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/demns/es6-provider/issues"
+  },
+  "homepage": "https://github.com/demns/es6-provider#readme",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
+}
